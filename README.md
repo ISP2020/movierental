@@ -25,6 +25,8 @@ motivation for each refactoring and how to do it.
 - Perform the 5 refactorings listed below, and optionally the 6th "missing" refactoring.
 - Before starting to refactor, run the units tests. They should all pass.
 - After each refactoring **run the unit tests** again. They should still pass.
+- After a refactoring passes tests and your own code review, commit it to your personal repo.
+- When done everything, push your solution to Github.
 
 The refactorings are (filenames refer to Java version):
 
